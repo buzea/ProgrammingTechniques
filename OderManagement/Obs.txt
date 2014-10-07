@@ -1,0 +1,6 @@
+OPDEPT : - TreeSet/TreeMap
+-Serializable
+-totals: price*product_nr
+-filters: client order, price<Set_price
+
+-tema 6: prin mail

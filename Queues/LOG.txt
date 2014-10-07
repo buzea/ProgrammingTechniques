@@ -1,0 +1,138 @@
+00:03: Server 0 : client 1 joined queue 
+00:04: Server 0 processing client 1 (client arrived) 
+00:04: Server 0 : client 2 joined queue 
+00:04: Server 0 : client 3 joined queue 
+00:30: Server 0 : client 1 finished processing  
+00:30: Server 0 processing client 2 (client arrived) 
+00:30: Server 0 : client 4 joined queue 
+00:48: Server 0 Client 4 left queue 
+00:51: Server 0 : client 2 finished processing  
+00:51: Server 0 processing client 3 (client arrived) 
+00:51: Server 0 : client 6 joined queue 
+00:51: Server 0 : client 7 joined queue 
+01:20: Server 0 : client 3 finished processing  
+01:20: Server 0 processing client 6 (client arrived) 
+01:20: Server 0 : client 8 joined queue 
+01:23: Server 0 : client 6 finished processing  
+01:23: Server 0 processing client 7 (client arrived) 
+01:23: Server 0 : client 9 joined queue 
+01:23: Server 0 : client 10 joined queue 
+01:43: Server 0 : client 7 finished processing  
+01:43: Server 0 processing client 8 (client arrived) 
+01:43: Server 0 : client 11 joined queue 
+01:43: Server 0 : client 12 joined queue 
+02:02: Server 0 : client 8 finished processing  
+02:02: Server 0 processing client 9 (client arrived) 
+02:02: Server 0 : client 13 joined queue 
+02:04: Server 0 : client 9 finished processing  
+02:04: Server 0 processing client 10 (client arrived) 
+02:07: Server 0 : client 10 finished processing  
+02:07: Server 0 processing client 11 (client arrived) 
+02:07: Server 0 : client 14 joined queue 
+02:28: Server 0 : client 11 finished processing  
+02:28: Server 0 processing client 12 (client arrived) 
+02:28: Server 0 : client 15 joined queue 
+02:28: Server 0 : client 16 joined queue 
+02:38: Server 0 : client 12 finished processing  
+02:38: Server 0 processing client 13 (client arrived) 
+02:38: Server 0 : client 17 joined queue 
+02:48: Server 0 Client 17 left queue 
+02:48: Server 0 Client 16 left queue 
+02:48: Server 0 Client 15 left queue 
+02:50: Server 0 : client 13 finished processing  
+02:50: Server 0 processing client 14 (client arrived) 
+02:50: Server 0 : client 20 joined queue 
+03:02: Server 0 : client 14 finished processing  
+03:02: Server 0 processing client 20 (client arrived) 
+03:16: Server 0 : client 20 finished processing  
+03:17: Server 0 processing client 21 (client arrived) 
+03:17: Server 0 : client 22 joined queue 
+03:17: Server 0 : client 23 joined queue 
+03:41: Server 0 : client 21 finished processing  
+03:41: Server 0 processing client 22 (client arrived) 
+04:06: Server 0 : client 22 finished processing  
+04:06: Server 0 processing client 23 (client arrived) 
+04:06: Server 0 : client 27 joined queue 
+04:34: Server 0 : client 23 finished processing  
+04:34: Server 0 processing client 27 (client arrived) 
+04:37: Server 0 : client 27 finished processing  
+04:42: Server 0 : client 30 joined queue 
+04:43: Server 0 processing client 30 (client arrived) 
+04:43: Server 0 : client 32 joined queue 
+05:03: Server 0 : client 30 finished processing  
+05:03: Server 0 processing client 32 (client arrived) 
+05:13: Server 0 : client 32 finished processing  
+05:19: Server 0 : client 36 joined queue 
+05:20: Server 0 processing client 36 (client arrived) 
+05:27: Server 0 : client 36 finished processing  
+05:37: Server 0 : client 37 joined queue 
+05:38: Server 0 processing client 37 (client arrived) 
+05:38: Server 0 : client 38 joined queue 
+06:03: Server 0 : client 37 finished processing  
+06:03: Server 0 processing client 38 (client arrived) 
+06:11: Server 0 : client 38 finished processing  
+06:13: Server 0 : client 40 joined queue 
+06:14: Server 0 processing client 40 (client arrived) 
+06:38: Server 0 : client 40 finished processing  
+
+
+00:49: Server 1 : client 4 joined queue 
+00:49: Server 1 : client 5 joined queue 
+00:50: Server 1 processing client 4 (client arrived) 
+01:11: Server 1 : client 4 finished processing  
+01:11: Server 1 processing client 5 (client arrived) 
+01:28: Server 1 : client 5 finished processing  
+02:49: Server 1 : client 15 joined queue 
+02:49: Server 1 : client 17 joined queue 
+02:50: Server 1 processing client 15 (client arrived) 
+02:55: Server 1 : client 15 finished processing  
+02:55: Server 1 processing client 17 (client arrived) 
+03:16: Server 1 : client 17 finished processing  
+
+
+02:49: Server 2 : client 16 joined queue 
+02:49: Server 2 : client 18 joined queue 
+02:50: Server 2 processing client 16 (client arrived) 
+02:56: Server 2 : client 16 finished processing  
+02:56: Server 2 processing client 18 (client arrived) 
+03:11: Server 2 : client 18 finished processing  
+
+
+03:41: Server 3 : client 24 joined queue 
+03:42: Server 3 processing client 24 (client arrived) 
+03:54: Server 3 : client 24 finished processing  
+03:54: Server 3 processing client 25 (client arrived) 
+04:03: Server 3 : client 25 finished processing  
+04:06: Server 3 : client 26 joined queue 
+04:07: Server 3 processing client 26 (client arrived) 
+04:07: Server 3 : client 28 joined queue 
+04:22: Server 3 : client 26 finished processing  
+04:22: Server 3 processing client 28 (client arrived) 
+04:22: Server 3 : client 29 joined queue 
+04:41: Server 3 : client 28 finished processing  
+04:41: Server 3 processing client 29 (client arrived) 
+04:41: Server 3 : client 31 joined queue 
+04:59: Server 3 : client 29 finished processing  
+04:59: Server 3 processing client 31 (client arrived) 
+05:03: Server 3 : client 31 finished processing  
+05:03: Server 3 processing client 33 (client arrived) 
+05:08: Server 3 : client 33 finished processing  
+05:08: Server 3 processing client 35 (client arrived) 
+05:22: Server 3 : client 35 finished processing  
+06:02: Server 3 : client 39 joined queue 
+06:03: Server 3 processing client 39 (client arrived) 
+06:08: Server 3 : client 39 finished processing  
+
+
+Average waiting time for hole simulation: 30 minutes
+Average service time for hole simulation: 14 minutes
+
+Total empty queue time for server 0 = 00:35
+Total empty queue time for server 1 = 05:37
+Total empty queue time for server 2 = 06:20
+
+Average service time in predefined interval: 10
+Average waiting time in predefined interval: 35
+Total idle time in predefined interval:157
+
+The peak hour of the simulation was from 4 to 5

@@ -1,0 +1,2 @@
+hashMap<>
+enable assert  -ea 
